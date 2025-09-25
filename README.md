@@ -1,5 +1,5 @@
 ## Hej 👋
-Det här är mitt Github-konto för skoluppgifter för [Webbutvecklingsprogrammet](https://webbutveckling.miun.se/) på Mittuniversitetet.  
+Det här är mitt Github-konto för skoluppgifter i [Webbutvecklingsprogrammet](https://webbutveckling.miun.se/) på Mittuniversitetet.  
 
 💻 Just nu läser vi kurserna *Introduktion till programmering i JavaScript* och *Webbutveckling I*.  
 
