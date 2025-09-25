@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hej 👋
+Det här är mitt Github-konto för skoluppgifter för [Webbutvecklingsprogrammet](https://webbutveckling.miun.se/) på Mittuniversitetet.  
+
+💻 Just nu läser vi kurserna *Introduktion till programmering i JavaScript* och *Webbutveckling I*.  
+
+💌 Kontaktar mig gör ni enklast via:  
+E-post: [caos2501@student.miun.se](mailto:caos2501@student.miun.se)
 
 <!--
 **cookiecortez/cookiecortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
